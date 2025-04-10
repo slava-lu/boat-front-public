@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BoatDetailPage should render "Boat details not found." if boat data is null 1`] = `
+<DocumentFragment>
+  <div>
+    Boat details not found.
+  </div>
+</DocumentFragment>
+`;
